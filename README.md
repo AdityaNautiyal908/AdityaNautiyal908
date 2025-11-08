@@ -1,41 +1,74 @@
-<h1 align="center">Hi 👋, I'm Aditya Nautiyal</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-<img align="right" width="400" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810" alt="coding gif">
-
-- 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React, Node.js)**  
-- 💬 Ask me about **Frontend Development (HTML, CSS, JavaScript, Bootstrap)** and **Backend with PHP & MySQL**  
-- 👨‍💻 All of my projects are available here on my [GitHub](https://github.com/AdityaNautiyal)  
-- 📫 Reach me at **nautiyaladitya7@gmail.com**  
-- ⚡ Fun fact: I love solving problems and building projects that make learning fun 🚀  
+<h1 align="center">👋 Hi, I'm Aditya Nautiyal</h1>
+<h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast from India</h3>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya-nautiyal" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:nautiyaladitya7@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" /></a>
-</p>
+## ✨ About Me
+
+🎓 BCA Student from Dehradun  
+💻 Passionate about building interactive and intelligent web applications  
+🌱 Currently learning **MERN Stack (MongoDB, Express.js, React, Node.js)**  
+💬 Ask me about **Frontend Development (HTML, CSS, JavaScript, Bootstrap)** or **Backend with PHP & MySQL**  
+🧩 I love combining creativity and logic to make tech more human-centered  
+⚡ Fun fact: I enjoy turning complex problems into simple, fun, and functional projects  
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+## 💻 Skills & Technologies
+
+**Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
+**Backend:** Node.js, Express.js, PHP  
+**Databases:** MongoDB, MySQL  
+**Tools & Platforms:** Git, GitHub, VS Code, Postman  
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 📌 Projects
+
+🧠 **[AI Tools Hub](https://ai-tools-creative.vercel.app/)**  
+A one-stop platform where users can explore all AI tools in one place — helping them discover, compare, and choose the best tools for their creative and professional needs.  
+💡 *Built with React.js and Tailwind CSS*  
+
+💻 **[Helium](https://ace-sand.vercel.app/)**  
+An AI-powered platform where users can ask coding or general questions, run their code instantly, view output, and even convert their results into PDF or Word format for download.  
+⚙️ *Built with Node.js, and AI Integration APIs*  
+
+🕹️ **[Pokémon Go Website](https://pokemon-go-sepia.vercel.app/)**  
+A visually appealing website created during my learning phase that showcases upcoming Pokémon events, new Pokémon releases, and in-game updates.  
+🎨 *Built using HTML, CSS, and JavaScript — focused on design and layout structure*  
+
+🌐 **[Portfolio Website](https://portfolio-nu-lovat-9ggpg2ep1b.vercel.app/)**  
+My personal portfolio website where I showcase my work, skills, and achievements — designed with a clean and creative aesthetic.  
+✨ *Created using HTML, CSS, JavaScript, and Bootstrap with beautiful design and interactive animation effects*  
+
+---
+
+## 🎯 Goals for 2025
+
+🚀 Master full-stack development and build more real-world applications  
+🧠 Strengthen my DSA and problem-solving foundation  
+💼 Get an internship or freelance project as a MERN developer  
+🌟 Launch a SaaS product that helps developers  
+💖 Keep innovating and sharing knowledge with others  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaNautiyal&show_icons=true&theme=tokyonight" alt="aditya's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaNautiyal&show_icons=true&theme=tokyonight" alt="Aditya's GitHub stats" />
 </p>
 
+---
 
+## 📫 Connect with Me
+
+📧 **Email:** [nautiyaladitya7@gmail.com](mailto:nautiyaladitya7@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/aditya-nautiyal](https://linkedin.com/in/aditya-nautiyal)  
+🌐 **Portfolio:** [portfolio-nu-lovat-9ggpg2ep1b.vercel.app](https://portfolio-nu-lovat-9ggpg2ep1b.vercel.app)
+
+---
+
+<p align="center">
+  <img src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810" width="400" alt="Coding animation">
+</p>
