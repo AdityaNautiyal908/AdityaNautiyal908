@@ -64,7 +64,7 @@ My personal portfolio website where I showcase my work, skills, and achievements
 ## 📫 Connect with Me
 
 📧 **Email:** [nautiyaladitya7@gmail.com](mailto:nautiyaladitya7@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/aditya-nautiyal](https://linkedin.com/in/aditya-nautiyal)  
+💼 **LinkedIn:** [linkedin.com/in/aditya-nautiyal](www.linkedin.com/in/aditya-nautiyal-179156217)  
 🌐 **Portfolio:** [portfolio-nu-lovat-9ggpg2ep1b.vercel.app](https://portfolio-nu-lovat-9ggpg2ep1b.vercel.app)
 
 ---
