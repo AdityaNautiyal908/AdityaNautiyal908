@@ -37,7 +37,7 @@ An AI-powered platform where users can ask coding or general questions, run thei
 A visually appealing website created during my learning phase that showcases upcoming Pokémon events, new Pokémon releases, and in-game updates.  
 🎨 *Built using HTML, CSS, and JavaScript — focused on design and layout structure*  
 
-🌐 **[Portfolio Website](https://portfolio-nu-lovat-9ggpg2ep1b.vercel.app/)**  
+🌐 **[Portfolio Website](https://visual-story-portfolio.vercel.app/)**  
 My personal portfolio website where I showcase my work, skills, and achievements — designed with a clean and creative aesthetic.  
 ✨ *Created using HTML, CSS, JavaScript, and Bootstrap with beautiful design and interactive animation effects*  
 
