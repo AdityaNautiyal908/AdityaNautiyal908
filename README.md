@@ -39,7 +39,7 @@ A visually appealing website created during my learning phase that showcases upc
 
 🌐 **[Portfolio Website](https://visual-story-portfolio.vercel.app/)**  
 My personal portfolio website where I showcase my work, skills, and achievements — designed with a clean and creative aesthetic.  
-✨ *Created using HTML, CSS, JavaScript, and Bootstrap with beautiful design and interactive animation effects*  
+✨ *Created using React.js and Tailwind CSS with beautiful design and interactive animation effects*  
 
 ---
 
