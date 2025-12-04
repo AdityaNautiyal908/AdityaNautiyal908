@@ -25,7 +25,7 @@
 
 ## 📌 Projects
 
-🧠 **[AI Tools Hub](https://ai-tools-creative.vercel.app/)**  
+🧠 **[Nova](https://ai-tools-creative.vercel.app/)**  
 A platform where users can explore and compare AI tools to boost their creativity & productivity.  
 ✨ *Built with React.js & Tailwind CSS*
 
