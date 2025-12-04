@@ -41,7 +41,7 @@ A beautiful website showing Pokémon events, updates, and new releases.
 A creative, interactive portfolio showcasing my work with animations and modern UI.  
 ✨ *React.js + Tailwind CSS*
 
-📚 **[BCA Question Paper Hub](https://visual-story-portfolio.vercel.app/)**  
+📚 **[BCA Question Paper Hub](https://exam-paper-six.vercel.app/)**  
 A dedicated website for BCA students to easily access previous years' question papers.  
 🎯 *Built to help juniors study smarter and save time*  
 🛠️ *Developed using React.js, Supabase & Tailwind CSS*
