@@ -66,7 +66,6 @@ A dedicated website for BCA students to easily access previous years' question p
 
 📧 **Email:** [nautiyaladitya7@gmail.com](mailto:nautiyaladitya7@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/aditya-nautiyal](https://www.linkedin.com/in/aditya-nautiyal-179156217/)  
-🌐 **Portfolio:** [portfolio link](https://visual-story-portfolio.vercel.app/)
 
 ---
 
