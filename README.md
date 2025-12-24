@@ -37,11 +37,11 @@ An AI-powered platform to ask coding/general questions, run code, and download o
 A beautiful website showing Pokémon events, updates, and new releases.  
 🎨 *Built using HTML, CSS & JavaScript*
 
-🌐 **[Portfolio Website](https://visual-story-portfolio.vercel.app/)**  
+🌐 **[Portfolio](https://visual-story-portfolio.vercel.app/)**  
 A creative, interactive portfolio showcasing my work with animations and modern UI.  
 ✨ *React.js + Tailwind CSS*
 
-📚 **[BCA Question Paper Hub](https://exam-paper-six.vercel.app/)**  
+📚 **[ANEEDA](https://exam-paper-six.vercel.app/)**  
 A dedicated website for BCA students to easily access previous years' question papers.  
 🎯 *Built to help juniors study smarter and save time*  
 🛠️ *Developed using React.js, Supabase & Tailwind CSS*
