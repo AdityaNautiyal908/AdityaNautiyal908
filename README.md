@@ -33,10 +33,6 @@ A platform where users can explore and compare AI tools to boost their creativit
 An AI-powered platform to ask coding/general questions, run code, and download outputs as PDF/Word.  
 ⚙️ *Node.js + AI Integration APIs*
 
-🕹️ **[Pokémon Go Website](https://pokemon-go-sepia.vercel.app/)**  
-A beautiful website showing Pokémon events, updates, and new releases.  
-🎨 *Built using HTML, CSS & JavaScript*
-
 🌐 **[Portfolio](https://visual-story-portfolio.vercel.app/)**  
 A creative, interactive portfolio showcasing my work with animations and modern UI.  
 ✨ *React.js + Tailwind CSS*
